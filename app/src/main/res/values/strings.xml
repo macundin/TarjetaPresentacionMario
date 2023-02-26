@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacionMario</string>
+    <string name="minombre">Mario Cundín</string>
+    <string name="title">Estudiante Informática Móvil</string>
+    <string name="tlfn">679189729</string>
+    <string name="user">macundin</string>
+    <string name="correo">15mario1bca@gmail.com</string>
+</resources>
